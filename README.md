@@ -1,11 +1,11 @@
-About r-randtests
-=================
+About r-randtests-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-randtests-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=randtests
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-randtests-feedstock/blob/main/LICENSE.txt)
 
 Summary: Several non parametric randomness tests for numeric sequences
 
